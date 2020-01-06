@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/227/index.m3u8
+
+#EXTINF:0,Discovery HD Showcase
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/2058/index.m3u8
+
+#EXTINF:0,Discovery Science
+#EXTGRP:познавательные
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/136/index.m3u
+
+#EXTINF:0,Investigation Discovery
+#EXTGRP:познавательные
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/2085/index.m3u8
+
+#EXTINF:0,National Geographic HD
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/230/index.m3u8
+
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/216/index.m3u8
+
+#EXTINF:0,Animal Planet HD
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/218/index.m3u8
+
+#EXTINF:0,Viasat Nature
+#EXTGRP:познавательные
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/161/index.m3u8
+
+#EXTINF:0,Viasat History
+#EXTGRP:познавательные
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/162/index.m3u8
+
+#EXTINF:0,Viasat Explore
+#EXTGRP:познавательные
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/163/index.m3u8
+
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/203/index.m3u8
+
+#EXTINF:0,History HD
+#EXTGRP:HD
+http://gerka75.kazaktelekom.com/iptv/XCAVNP7ZUPPBXC/231/index.m3u8
